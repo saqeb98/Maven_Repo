@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[customerModule]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-01T10:59:29 IST" name="Suite" finished-at="2024-09-01T10:59:30 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2024-09-01T10:59:29 IST" name="Test" finished-at="2024-09-01T10:59:30 IST" duration-ms="87">
+      <class name="com.actitime.generic.BaseClass">
+        <test-method signature="op()[pri:0, instance:com.actitime.generic.BaseClass@272113c4]" started-at="2024-09-01T10:59:29 IST" name="op" finished-at="2024-09-01T10:59:30 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- op -->
+      </class> <!-- com.actitime.generic.BaseClass -->
+      <class name="com.actitime.testscript.CustomerModule">
+        <test-method signature="customerModule()[pri:0, instance:com.actitime.testscript.CustomerModule@6fdbe764]" started-at="2024-09-01T10:59:30 IST" name="customerModule" finished-at="2024-09-01T10:59:30 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[customerModule]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerModule -->
+      </class> <!-- com.actitime.testscript.CustomerModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
